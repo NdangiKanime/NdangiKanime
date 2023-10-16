@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NdangiKanime
 - 👀 I’m interested in Data Science, A.I, System Design and Robotics
-- 🌱 I’m currently learning Python, Javascript, C# and SQL
+- 🌱 I’m currently learning Python, React, C# and SQL
 - 💞️ I’m looking to collaborate on A.I and Software Development projects
 - 📫 How to reach me: LinkedIn Ndangi Kanime - System Designer...
 
